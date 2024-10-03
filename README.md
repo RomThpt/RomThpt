@@ -1,16 +1,46 @@
-## Hi there 👋
+# Romain Thépaut 🦉
+**`Blockchain Backend engineer`**
 
-<!--
-**RomThpt/RomThpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a dedicated blockchain engineering apprentice with a passion for decentralized technologies and innovation. Currently pursuing a Master of Engineering in Blockchain Technology at ESILV - Leonard de Vinci Graduate School of Engineering, I have three years of hands-on experience in blockchain development. I’m excited to learn and contribute to projects that shape the future of technology.
 
-Here are some ideas to get you started:
+## 📱 Connect with Me
+<p align="left">
+<a href="https://github.com/yourusername?tab=followers">
+        <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/yourusername?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/yourusername?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yourusername?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 My Mission
+
+To leverage blockchain technology to create secure, transparent, and efficient solutions that empower individuals and organizations.
+
+## 🛠️ Technologies & Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Hardhat" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+
+## 🌱 Currently Learning
+
+- Advanced smart contract development
+-	DeFi and NFT ecosystems
+- Blockchain security and auditing techniques
+-	Cross-chain technology and interoperability
+
+
+### 📊 Stats
+
+![Thepaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomThpt&show_icons=true&theme=gruvbox)

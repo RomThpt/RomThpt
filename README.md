@@ -11,6 +11,9 @@ I’m a dedicated blockchain engineering apprentice with a passion for decentral
     <a href="https://github.com/yourusername?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RomThpt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
+    <a href="mailto:rothnic8@gmail.com">
+        <img alt="email" title="Send me an email" src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </p>
 
 ## 🌟 My Mission

@@ -6,10 +6,10 @@ I’m a dedicated blockchain engineering apprentice with a passion for decentral
 ## 📱 Connect with Me
 <p align="left">
 <a href="https://github.com/yourusername?tab=followers">
-        <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/yourusername?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+        <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/RomThpt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
     <a href="https://github.com/yourusername?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yourusername?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RomThpt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
 

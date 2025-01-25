@@ -46,4 +46,4 @@ To leverage blockchain technology to create secure, transparent, and efficient s
 
 ### 📊 Stats
 
-![Thepaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomThpt&show_icons=true&theme=gruvbox)
+![Thepaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomThpt&show_icons=true&theme=monokai)

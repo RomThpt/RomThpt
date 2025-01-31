@@ -8,7 +8,7 @@ I’m a dedicated blockchain engineering apprentice with a passion for decentral
 
 ## 📱 Connect with Me
 <p align="left">
-<a href="https://github.com/yourusername?tab=followers">
+<a href="https://github.com/RomThpt?tab=followers">
         <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/RomThpt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
     <a href="https://github.com/RomThpt">

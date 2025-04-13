@@ -4,7 +4,8 @@
 I’m a dedicated blockchain engineering apprentice with a passion for decentralized technologies and innovation. Currently pursuing a Master of Engineering in Blockchain Technology at ESILV - Leonard de Vinci Graduate School of Engineering, I have three years of hands-on experience in blockchain development. I’m excited to learn and contribute to projects that shape the future of technology.
 
 ## 🏆 Achievements  
-- 🥈 2nd place at the **XRPL & Cryptography Hackathon** at **University of Roma Tre**, showcasing innovative solutions in decentralized identity and blockchain. 
+- 🥈 2nd place at the **XRPL & Cryptography Hackathon** at **University of Roma Tre**, showcasing innovative solutions in decentralized identity and blockchain.
+- 🥈 2nd place at the **PBW Hackhathon** in **XRPL Track**, building an mcp server for XRPL.
 
 ## 📱 Connect with Me
 <p align="left">
